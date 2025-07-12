@@ -1,11 +1,6 @@
 # Object-Remover-From-Picture
 🧠 AI Object Remover – Smart Image Cleanup like Apple Intelligence
 Remove unwanted objects from your images using cutting-edge AI — combining Segment Anything (SAM) by Meta for intelligent object detection and Stable Diffusion Inpainting for seamless image regeneration. Just select the object you want to remove, and the AI takes care of the rest — no manual editing required!
-
-📸 Demo
-https://github.com/yourusername/ai-object-remover/assets/demo-video.mp4
-(Optional: add your demo GIF or video here)
-
 🚀 Features
 🖼️ Upload any image
 
